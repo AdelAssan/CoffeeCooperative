@@ -1,0 +1,13 @@
+.mugs__btn{
+    cursor: pointer;
+    background-color: #FFFFFF;
+    color: #1D1F2E;
+    box-sizing: border-box;
+    border: none;
+    width: 231px;
+    height: 18px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,7 @@
+.header__logo{
+    background-image: url("../../images/CoffeeLogo.svg");
+    background-size: 112px 24px;
+    width: 112px;
+    height: 24px;
+    margin-right: 97px;
+}
