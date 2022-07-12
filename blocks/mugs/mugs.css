@@ -2,6 +2,13 @@
     background-image: url("../../images/coffeemugs.png");
     background-repeat: no-repeat;
     background-size: auto;
+    background-position: center;
     min-height: 530px;
     min-width: 1380px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
 }
