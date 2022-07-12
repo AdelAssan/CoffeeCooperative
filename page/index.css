@@ -1,0 +1,18 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/pages/pages.css);
+@import url(../blocks/paragraph/paragraph.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/header__menu.css);
+@import url(../blocks/header/header__logo.css);
+@import url(../blocks/header/header__cart.css);
+@import url(../blocks/header/header__cart-logo.css);
+@import url(../blocks/header/header__number.css);
+@import url(../blocks/header/header__text.css);
+@import url(../blocks/header/header__cart-text.css);
+
+@import url(../blocks/mugs/mugs.css);
+@import url(../blocks/mugs/mugs__btn.css);
+@import url(../blocks/mugs/mugs__pretitle.css);
+@import url(../blocks/mugs/mugs__title.css);
+@import url(../blocks/mugs/mugs__text.css);

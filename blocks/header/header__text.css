@@ -1,0 +1,12 @@
+.header__text{
+    color: #1D1F2E;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-right: 30px;
+}
+
+.header__text:last-of-type{
+    margin-right: 50px;
+}
