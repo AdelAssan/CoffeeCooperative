@@ -1,0 +1,7 @@
+.mugs{
+    background-image: url("../../images/coffeemugs.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-height: 530px;
+    min-width: 1380px;
+}

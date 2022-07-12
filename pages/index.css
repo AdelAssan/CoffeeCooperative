@@ -1,1 +1,9 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/pages/pages.css);
 @import url(../blocks/paragraph/paragraph.css);
+
+@import url(../blocks/mugs/mugs.css);
+@import url(../blocks/mugs/mugs__btn.css);
+@import url(../blocks/mugs/mugs__pretitle.css);
+@import url(../blocks/mugs/mugs__title.css);
+@import url(../blocks/mugs/mugs__text.css);
